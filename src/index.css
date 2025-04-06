@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-helvetiva: "Helvetica";
+  --font-inter: "Inter";
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("./fonts/Helvetica.ttf");
+}
+@font-face {
+  font-family: "Inter";
+  src: url("./fonts/Inter.ttf");
+}
+
+
