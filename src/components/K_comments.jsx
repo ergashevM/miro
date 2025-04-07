@@ -14,7 +14,7 @@ const Comments = () => {
       <button className="font-helvetiva font-normal text-[16px] lg:text-[18px] w-[282px] h-[48px] hover:bg-[#4262FF] leading-[24px] hover:text-white bg-[#FFF] text-[#4262FF] border border-[#4262FF] rounded-[24px] mt-3">
         See all customer stories →
       </button>
-      <div className="flex flex-col lg:flex-row items-center justify-between gap-x-8 mt-20">
+      <div className="flex flex-col lg:flex-row items-center justify-between gap-x-15 mt-20">
         {[
           {
             logo: LogoOne,

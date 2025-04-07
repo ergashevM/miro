@@ -27,7 +27,7 @@ const Sponsors = () => {
   }, []);
 
   return (
-    <div className="w-full max-w-[1120px] lg:h-[200px] h-auto flex flex-col justify-center mx-auto text-center overflow-hidden gap-y-15">
+    <div className="w-full max-w-[1120px] lg:h-[200px] h-auto flex flex-col justify-center mx-auto text-center overflow-hidden gap-y-15 mt-20">
       <h3 className="font-normal text-lg font-inter text-[#05003899]">
         Trusted by 45M+ users
       </h3>
