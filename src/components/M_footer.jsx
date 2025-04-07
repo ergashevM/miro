@@ -13,7 +13,7 @@ const Footer = () => {
   return (
     <div className="w-full max-w-[1440px] h-auto lg:h-[690px] mx-auto bg-[#050038] text-white pt-10">
       <div className="w-full max-w-[1380px] mx-auto flex flex-col lg:flex-row items-start justify-between pb-20 border-b border-[#9B99AF] pr-30">
-        <ul className="flex flex-col gap-y-3">
+        <ul className="flex flex-col gap-y-3 mb-10 lg:mb-0">
           <li className="font-bold font-inter text-[18px] leading-[24px] mb-5">Product</li>
           <li className="font-inter font-normal text-base leading-[24px]">Online whiteboard</li>
           <li className="font-inter font-normal text-base leading-[24px]">Apps & Integrations</li>
@@ -30,7 +30,7 @@ const Footer = () => {
           </li>
         </ul>
 
-        <ul className="flex flex-col gap-y-3">
+        <ul className="flex flex-col gap-y-3 mb-10 lg:mb-0">
           <li className="font-bold font-inter text-[18px] leading-[24px] mb-5">Solutions</li>
           <li className="font-inter font-normal text-base leading-[24px]">Meetings and Workshops</li>
           <li className="font-inter font-normal text-base leading-[24px]">Brainstorming & Ideation</li>
@@ -45,7 +45,7 @@ const Footer = () => {
           <li className="font-inter font-normal text-base leading-[24px]">Wireframing</li>
         </ul>
 
-        <ul className="flex flex-col gap-y-3">
+        <ul className="flex flex-col gap-y-3 mb-10 lg:mb-0">
           <li className="font-bold font-inter text-[18px] leading-[24px] mb-5">Resources</li>
           <li className="font-inter font-normal text-base leading-[24px]">Miro Academy</li>
           <li className="font-inter font-normal text-base leading-[24px]">Help Center</li>
@@ -57,7 +57,7 @@ const Footer = () => {
           <li className="font-inter font-normal text-base leading-[24px]">Miro Events</li>
         </ul>
 
-        <ul className="flex flex-col gap-y-3">
+        <ul className="flex flex-col gap-y-3 mb-10 lg:mb-0">
           <li className="font-bold font-inter text-[18px] leading-[24px] mb-5">Company</li>
           <li className="font-inter font-normal text-base leading-[24px]">About us</li>
           <li className="font-inter font-normal text-base leading-[24px]">Careers 🚀</li>
